@@ -3,3 +3,4 @@ coverage
 *.log
 test/_client.js
 store
+.DS_Store
